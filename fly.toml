@@ -1,6 +1,6 @@
-# fly.toml file generated for solitary-pond-3200 on 2022-07-30T13:56:30+03:00
+# fly.toml file generated for instrumente-creative on 2022-07-30T17:34:49+03:00
 
-app = "solitary-pond-3200"
+app = "instrumente-creative"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
